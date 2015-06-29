@@ -11,11 +11,11 @@ First you need to download and install the following Software:
 
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-![VirtualBox](../img/virtualbox_download.png)
+    ![VirtualBox](../img/virtualbox_download.png)
 
 2. [7-Zip](http://www.7-zip.org/download.html)
 
-![7-Zip](../img/zip_download.png)
+    ![7-Zip](../img/zip_download.png)
 
 ## Setup OSGeo Live!
 
