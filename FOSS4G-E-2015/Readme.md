@@ -63,3 +63,8 @@ The workshop makes use of the following software, installed on OSGeo Live!.
 * Geoserver
 
 You will also need a text editor to modify HTML/Javascript.
+
+## Workshop Manual
+
+* HTML: http://workshop.pgrouting.org
+* PDF: https://github.com/pgRouting/workshop/raw/gh-pages/pgRoutingWorkshop.pdf
